@@ -10,6 +10,8 @@ html {
 }
 
 body {
+  max-width:100rem;
+  min-width: 20rem;
   width: 90vw;
   height: 98vh;
   margin: 0 auto;
